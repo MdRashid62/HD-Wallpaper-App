@@ -1,4 +1,4 @@
-# HD-Wallpaper-App 000
+# HD-Wallpaper-App 00
 
 This application uses Unsplash [API](https://unsplash.com/developers) to fetch wallpapers.
 
